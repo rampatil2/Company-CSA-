@@ -1,0 +1,17 @@
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Application.deps.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Application.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Domain.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.csproj.AssemblyReference.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.AssemblyInfoInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.AssemblyInfo.cs
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company..CC56E5B1.Up2Date
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\refint\Company.Employee.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\ref\Company.Employee.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\bin\Debug\net9.0\Company.Employee.Application.runtimeconfig.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Application\obj\Debug\net9.0\Company.Employee.Application.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\bin\Debug\net9.0\Company.Employee.Domain.deps.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\bin\Debug\net9.0\Company.Employee.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\bin\Debug\net9.0\Company.Employee.Domain.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.AssemblyInfoInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.AssemblyInfo.cs
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\refint\Company.Employee.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\ref\Company.Employee.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\bin\Debug\net9.0\Company.Employee.Domain.runtimeconfig.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.csproj.AssemblyReference.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Employee.Domain\obj\Debug\net9.0\Company.Employee.Domain.genruntimeconfig.cache

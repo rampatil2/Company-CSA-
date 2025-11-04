@@ -1,0 +1,17 @@
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Application.deps.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Application.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.AssemblyInfoInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.AssemblyInfo.cs
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.csproj.CoreCompileInputs.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\refint\Company.Department.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\ref\Company.Department.Application.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Application.runtimeconfig.json
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.csproj.AssemblyReference.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company.Department.Application.genruntimeconfig.cache
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Domain.dll
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\bin\Debug\net9.0\Company.Department.Domain.pdb
+C:\Users\ptalekar\source\repos\Company-CSA\Company.Department.Application\obj\Debug\net9.0\Company..A2800D74.Up2Date
